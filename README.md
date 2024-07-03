@@ -3,8 +3,8 @@
 👋 Hi there! I'm Ronan Virmani, a Computer Science student at the University of Florida, currently living in Orlando, FL. I'm passionate about full-stack development and artificial intelligence, and I'm expected to graduate in May 2026 with a Bachelor of Engineering in Computer Science.
 
 ## 🔗 Connect with Me
-- **Personal Portfolio:** [Your Portfolio Website](https://ronanvirmani-ronan-virmanis-projects.vercel.app/)
-- **LinkedIn:** [Ronan Virmani](https://www.linkedin.com/in/ronan-virmani-UF/)
+- **Personal Portfolio:** [Portfolio](https://ronanvirmani-ronan-virmanis-projects.vercel.app/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ronan-virmani-UF/)
 
 ## 💼 Experience
 
